@@ -17,3 +17,4 @@ The Dashboard Contains Overview of -
 ⦿ Revenue per Category per Gender
 ⦿ Filter by Year, Regieon, Category and Sub-category
 Check it out here:https://public.tableau.com/shared/NG37CJ3S5?:display_count=n&:origin=viz_share_link
+![Revenue Analysis](https://github.com/aumya/Tableau_Portfolio/assets/55890070/d386a4b8-9707-4ba9-83c3-ca358977811d)
